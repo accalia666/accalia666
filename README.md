@@ -30,4 +30,4 @@ What a time to be online.
 
 ### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/MatejBendik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/Accalia666/github-readme-stats)
