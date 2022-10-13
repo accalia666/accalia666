@@ -30,4 +30,4 @@ What a time to be online.
 
 ### Badges
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=accalia666&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/MatejBendik/github-readme-stats)
