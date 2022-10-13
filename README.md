@@ -33,4 +33,4 @@ What a time to be online.
 
 ### Looking for a bad joke?
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry&bgColor=%2320232a" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl&bgColor=%2320232a" alt="README Jokes"></a>
