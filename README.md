@@ -27,9 +27,11 @@ What a time to be online.
 &nbsp;
 </p>
 
-### Github stats
+<!-- ### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/accalia666/github-readme-stats)
+
+-->
 
 ### Looking for a bad joke?
 
