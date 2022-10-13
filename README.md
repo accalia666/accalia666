@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-What a time to be online.
-
 ### Tech stack
 
 <p align="left">
