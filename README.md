@@ -31,3 +31,5 @@ What a time to be online.
 ### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/accalia666/github-readme-stats)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
