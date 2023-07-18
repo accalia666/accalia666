@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Tech stack
+<!--### Tech stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,7 +23,7 @@
 &nbsp;
 </p>
 
-<!-- ### Github stats
+### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accalia666&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/accalia666/github-readme-stats)
 
